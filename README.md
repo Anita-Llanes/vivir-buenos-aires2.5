@@ -44,10 +44,10 @@ Instalación y Ejecución Local
 Para ejecutar el proyecto en tu entorno local, sigue estos pasos:
 
 Clona el repositorio:
-git clone https://github.com/Anita-Llanes/vivir-buenos-aires25.git
+git clone https://github.com/Anita-Llanes/vivir-buenos-aires.git
 
 Navega al directorio del proyecto:
-cd vivir-buenos-aires25
+cd vivir-buenos-aires2.5
 
 Instala las dependencias:
 npm install
@@ -62,4 +62,4 @@ Ana Inés Llanes Macazaga
 
 GitHub: https://github.com/Anita-Llanes
 
-Repositorio del proyecto: https://github.com/Anita-Llanes/vivir-buenos-aires25.git
+Repositorio del proyecto: https://github.com/Anita-Llanes/vivir-buenos-aires.git
